@@ -2293,7 +2293,7 @@
                 </l7:Property>
             </l7:Properties>
         </l7:Mapping>
-        <l7:Mapping action="NewOrExisting" srcId="1994c4470afce7ece07c4c7ba0dcb702" srcUri="https://b1df0164f582:9443/restman/1.0/firewallRules/1994c4470afce7ece07c4c7ba0dcb702" type="FIREWALL_RULE"/>
+        <l7:Mapping action="Ignore" srcId="1994c4470afce7ece07c4c7ba0dcb702" srcUri="https://b1df0164f582:9443/restman/1.0/firewallRules/1994c4470afce7ece07c4c7ba0dcb702" type="FIREWALL_RULE"/>
         <l7:Mapping action="NewOrExisting" srcId="0000000000000000fffffffffffffffd" srcUri="https://b1df0164f582:9443/restman/1.0/resources/0000000000000000fffffffffffffffd" type="RESOURCE_ENTRY"/>
         <l7:Mapping action="NewOrExisting" srcId="0000000000000000fffffffffffffffb" srcUri="https://b1df0164f582:9443/restman/1.0/resources/0000000000000000fffffffffffffffb" type="RESOURCE_ENTRY"/>
         <l7:Mapping action="NewOrExisting" srcId="0000000000000000fffffffffffffffc" srcUri="https://b1df0164f582:9443/restman/1.0/resources/0000000000000000fffffffffffffffc" type="RESOURCE_ENTRY"/>
